@@ -1,7 +1,7 @@
 # ABSTRACT: Ship your TestML version
 
 package Dist::Zilla::Plugin::TestMLIncluder;
-$Dist::Zilla::Plugin::TestMLIncluder::VERSION = '0.02';
+$Dist::Zilla::Plugin::TestMLIncluder::VERSION = '0.03';
 use Moose;
 
 extends 'Dist::Zilla::Plugin::ModuleIncluder';

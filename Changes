@@ -1,3 +1,7 @@
+0.03 Sat Jun 14 12:18:41 PDT 2014
+ - Add travis support
+ - Add badges to doc
+
 0.02 Sat May 24 06:03:51 PDT 2014
  - Upgrade to Zilla::Dist
 

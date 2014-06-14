@@ -4,7 +4,7 @@ NAME
 SYNOPSIS
     In dist.ini:
 
-         [TestMLIncluder]
+        [TestMLIncluder]
 
 DESCRIPTION
     This module includes the version of TestML on your system with your
