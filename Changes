@@ -1,3 +1,6 @@
+0.04 Tue Jun 17 11:02:16 PDT 2014
+ - Remove ABSTRACT and add manual $VERSION
+
 0.03 Sat Jun 14 12:18:41 PDT 2014
  - Add travis support
  - Add badges to doc

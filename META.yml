@@ -17,6 +17,7 @@ no_index:
     - inc
     - t
     - xt
+    - example
 requires:
   Dist::Zilla::Plugin::ModuleIncluder: '0'
   Moose: '0'
@@ -25,4 +26,4 @@ resources:
   bugtracker: https://github.com/ingydotnet/dist-zilla-plugin-testmlincluder-pm/issues
   homepage: https://github.com/ingydotnet/dist-zilla-plugin-testmlincluder-pm
   repository: https://github.com/ingydotnet/dist-zilla-plugin-testmlincluder-pm.git
-version: '0.03'
+version: '0.04'
