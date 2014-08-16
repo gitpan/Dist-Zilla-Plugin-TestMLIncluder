@@ -11,4 +11,3 @@ lib/Dist/Zilla/Plugin/TestMLIncluder.pm
 lib/Dist/Zilla/Plugin/TestMLIncluder.pod
 t/000-compile-modules.t
 t/release-pod-syntax.t
-t/use_ok.t
