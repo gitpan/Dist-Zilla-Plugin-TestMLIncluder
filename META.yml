@@ -26,4 +26,4 @@ resources:
   bugtracker: https://github.com/ingydotnet/dist-zilla-plugin-testmlincluder-pm/issues
   homepage: https://github.com/ingydotnet/dist-zilla-plugin-testmlincluder-pm
   repository: https://github.com/ingydotnet/dist-zilla-plugin-testmlincluder-pm.git
-version: '0.10'
+version: '0.11'
